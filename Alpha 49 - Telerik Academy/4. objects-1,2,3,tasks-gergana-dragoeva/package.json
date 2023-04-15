@@ -1,0 +1,13 @@
+{
+  "name": "objects-tasks",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Telerik Academy",
+  "license": "MIT"
+}
